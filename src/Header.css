@@ -1,0 +1,13 @@
+header {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px;
+    background-color: rgba(47, 79, 79, 0.849);
+}
+
+header h1{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+
+}
