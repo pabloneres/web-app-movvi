@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/web-app-movvi/precache-manifest.fcb1d20c2bc8b3fcf71f61b82caf66fa.js"
+  "/web-app-movvi/precache-manifest.854ff797916454f287767ae5614b430e.js"
 );
 
 self.addEventListener('message', (event) => {
