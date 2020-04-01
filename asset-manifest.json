@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/web-app-movvi/static/css/main.8348b761.chunk.css",
-    "main.js": "/web-app-movvi/static/js/main.97a6dda5.chunk.js",
-    "main.js.map": "/web-app-movvi/static/js/main.97a6dda5.chunk.js.map",
+    "main.js": "/web-app-movvi/static/js/main.03d49c0c.chunk.js",
+    "main.js.map": "/web-app-movvi/static/js/main.03d49c0c.chunk.js.map",
     "runtime-main.js": "/web-app-movvi/static/js/runtime-main.3dc84f2e.js",
     "runtime-main.js.map": "/web-app-movvi/static/js/runtime-main.3dc84f2e.js.map",
     "static/js/2.57b644ec.chunk.js": "/web-app-movvi/static/js/2.57b644ec.chunk.js",
     "static/js/2.57b644ec.chunk.js.map": "/web-app-movvi/static/js/2.57b644ec.chunk.js.map",
     "index.html": "/web-app-movvi/index.html",
-    "precache-manifest.5bcb17c47751c11581f3b0a3a7bda402.js": "/web-app-movvi/precache-manifest.5bcb17c47751c11581f3b0a3a7bda402.js",
+    "precache-manifest.efa07e273f09efbd99fe6f4b29028d96.js": "/web-app-movvi/precache-manifest.efa07e273f09efbd99fe6f4b29028d96.js",
     "service-worker.js": "/web-app-movvi/service-worker.js",
     "static/css/main.8348b761.chunk.css.map": "/web-app-movvi/static/css/main.8348b761.chunk.css.map",
     "static/js/2.57b644ec.chunk.js.LICENSE.txt": "/web-app-movvi/static/js/2.57b644ec.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.3dc84f2e.js",
     "static/js/2.57b644ec.chunk.js",
     "static/css/main.8348b761.chunk.css",
-    "static/js/main.97a6dda5.chunk.js"
+    "static/js/main.03d49c0c.chunk.js"
   ]
 }
