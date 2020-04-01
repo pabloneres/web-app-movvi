@@ -1,0 +1,24 @@
+.marker {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 100px;
+    user-select: none;
+    transform: translate(-50%, -50%);
+    align-items: center;
+    justify-content: center;
+   
+  }
+
+  .marker:hover {
+      z-index: 1;
+    }
+
+    .marker p {
+        color: black ;
+        font-weight: bold;
+        font-size: 15px;
+    }
+    .marker img {
+        width: 30px;
+    }
