@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/web-app-movvi/static/css/main.a5db3d11.chunk.css",
-    "main.js": "/web-app-movvi/static/js/main.b75070e3.chunk.js",
-    "main.js.map": "/web-app-movvi/static/js/main.b75070e3.chunk.js.map",
+    "main.css": "/web-app-movvi/static/css/main.8348b761.chunk.css",
+    "main.js": "/web-app-movvi/static/js/main.9e5208c6.chunk.js",
+    "main.js.map": "/web-app-movvi/static/js/main.9e5208c6.chunk.js.map",
     "runtime-main.js": "/web-app-movvi/static/js/runtime-main.3dc84f2e.js",
     "runtime-main.js.map": "/web-app-movvi/static/js/runtime-main.3dc84f2e.js.map",
-    "static/css/2.1f156bdb.chunk.css": "/web-app-movvi/static/css/2.1f156bdb.chunk.css",
-    "static/js/2.bd077726.chunk.js": "/web-app-movvi/static/js/2.bd077726.chunk.js",
-    "static/js/2.bd077726.chunk.js.map": "/web-app-movvi/static/js/2.bd077726.chunk.js.map",
+    "static/js/2.c6d647ca.chunk.js": "/web-app-movvi/static/js/2.c6d647ca.chunk.js",
+    "static/js/2.c6d647ca.chunk.js.map": "/web-app-movvi/static/js/2.c6d647ca.chunk.js.map",
     "index.html": "/web-app-movvi/index.html",
-    "precache-manifest.854ff797916454f287767ae5614b430e.js": "/web-app-movvi/precache-manifest.854ff797916454f287767ae5614b430e.js",
+    "precache-manifest.c134dc1939ea73c5254b2f4a669a002e.js": "/web-app-movvi/precache-manifest.c134dc1939ea73c5254b2f4a669a002e.js",
     "service-worker.js": "/web-app-movvi/service-worker.js",
-    "static/css/2.1f156bdb.chunk.css.map": "/web-app-movvi/static/css/2.1f156bdb.chunk.css.map",
-    "static/css/main.a5db3d11.chunk.css.map": "/web-app-movvi/static/css/main.a5db3d11.chunk.css.map",
-    "static/js/2.bd077726.chunk.js.LICENSE.txt": "/web-app-movvi/static/js/2.bd077726.chunk.js.LICENSE.txt"
+    "static/css/main.8348b761.chunk.css.map": "/web-app-movvi/static/css/main.8348b761.chunk.css.map",
+    "static/js/2.c6d647ca.chunk.js.LICENSE.txt": "/web-app-movvi/static/js/2.c6d647ca.chunk.js.LICENSE.txt",
+    "static/media/car.svg": "/web-app-movvi/static/media/car.1cd47c54.svg",
+    "static/media/location.svg": "/web-app-movvi/static/media/location.068f8e63.svg",
+    "static/media/logo.png": "/web-app-movvi/static/media/logo.f4fbaedb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3dc84f2e.js",
-    "static/css/2.1f156bdb.chunk.css",
-    "static/js/2.bd077726.chunk.js",
-    "static/css/main.a5db3d11.chunk.css",
-    "static/js/main.b75070e3.chunk.js"
+    "static/js/2.c6d647ca.chunk.js",
+    "static/css/main.8348b761.chunk.css",
+    "static/js/main.9e5208c6.chunk.js"
   ]
 }
