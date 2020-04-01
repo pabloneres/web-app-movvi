@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b39f987e2a8f929bf48b6f86b0f68119",
+    "revision": "9a499a43ef33273c1597e1b5a1a3dc74",
     "url": "/web-app-movvi/index.html"
   },
   {
-    "revision": "df73e4e9da15981dacd6",
+    "revision": "eca3b1aa2e23f9826e1b",
     "url": "/web-app-movvi/static/css/main.8348b761.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/web-app-movvi/static/js/2.57b644ec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "df73e4e9da15981dacd6",
-    "url": "/web-app-movvi/static/js/main.03d49c0c.chunk.js"
+    "revision": "eca3b1aa2e23f9826e1b",
+    "url": "/web-app-movvi/static/js/main.1794f2d4.chunk.js"
   },
   {
     "revision": "d58244373fe8b1d42302",
